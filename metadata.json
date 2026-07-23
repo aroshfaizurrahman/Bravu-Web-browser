@@ -1,0 +1,6 @@
+{
+  "name": "Bravu web browser",
+  "description": "A fast & private browser disguised app that surprises users with a hilarious 'You are pranked!' reveal whenever any link or search is opened.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
