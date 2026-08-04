@@ -1,2 +1,2 @@
 # Bravu web browser
-A fast and reliable webbroeser for android
+A fast and reliable web browser for android
